@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #0D1448;
+    color: #dbd5c7;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  #services {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .service {
+    display: inline-block;
+    margin: 20px;
+  }
+  
+  .service img {
+    width: 200px;
+    border-radius: 10px;
+  }
+  
+  #contact {
+    background-color: #0D1448;
+    color:#dbd5c7;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #0D1448#;
+    color: #000000;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
